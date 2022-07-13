@@ -1,0 +1,12 @@
+footer {
+    
+    background-color: black;
+    color: darkorchid;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
